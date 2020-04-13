@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CAEA,QACE,aACF","file":"main.13b825d8.chunk.css","sourcesContent":["body {\n  background-color: antiquewhite ;\n}\n\n.Header {\n  color: cadetblue;\n}\n\n\n\n"]}
